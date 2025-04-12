@@ -26,7 +26,7 @@ Utiliza o método `.count()` para verificar quantas vezes um determinado número
 Recebe uma palavra do usuário e verifica se ela é um palíndromo (ou seja, se é lida da mesma forma de trás pra frente).
 
 <p align="center">
-  <img src"https://i.imgur.com/MLrNO17.jpeg" alt="Comandos de navegação no terminal" width="700"/>
+  <img src="https://i.imgur.com/MLrNO17.jpeg" alt="Comandos de navegação no terminal" width="700"/>
 </p>
 
 ---
